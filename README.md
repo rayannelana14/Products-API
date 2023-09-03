@@ -1,7 +1,7 @@
 # Products-API
 A node API to manage products
 
- - run the follow commando to install the dependencies
+Run the commands to install the dependencies and to run the code 
+
         npm install
-- To run the aPI
         node server.js
